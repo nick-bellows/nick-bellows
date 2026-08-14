@@ -1,6 +1,6 @@
 # Hi, I'm Nick 👋
 
-Technology-focused software engineer with 10+ years of experience bridging business and technology. I hold a **Master's in Software Engineering with AI Specialization** and combine hands-on technical skills in Python, reinforcement learning, and cybersecurity with proven ability to translate complex business requirements into technical solutions.
+I am a working professional with 10+ years of experience bridging sports business, marketing, and technology with my company. I hold a **Master's in Software Engineering with AI Specialization** and combine hands-on technical skills in Python, reinforcement learning, and cybersecurity with proven ability to translate complex business requirements into technical solutions.
 
 ---
 
