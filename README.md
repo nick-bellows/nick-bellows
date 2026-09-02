@@ -1,68 +1,70 @@
-# Hi, I'm Nick 👋
+# Nick Bellows
 
-I am a working professional with 10+ years of experience bridging sports business, marketing, and technology with my company. I hold a **Master's in Software Engineering with AI Specialization** and combine hands-on technical skills in Python, reinforcement learning, and cybersecurity with proven ability to translate complex business requirements into technical solutions.
+**Software engineering graduate and technology-focused soccer professional
+building full-stack, data, cloud, and applied-AI systems.**
 
----
+My professional background spans more than a decade in the U.S. soccer
+ecosystem, including digital platforms, analytics, event operations, technical
+support, and translating business needs into technical work. I pair that domain
+experience with an MS and BS in Software Engineering and hands-on portfolio work
+in Go, TypeScript, Python, SQL, PostgreSQL, AWS-oriented architecture, Docker,
+APIs, data pipelines, testing, and CI/CD.
 
-## 🔧 Technical Skills
+I am currently focused on two engineering problems I know well from the domain:
+multi-role learning and eligibility workflows, and trustworthy identity/data
+integration across disconnected soccer systems.
 
-**Programming & Development**
-Python, PyTorch, C#, C++, HTML/CSS, WordPress, Git
+## Selected engineering work
 
-**AI/ML & Data**
-Reinforcement Learning (PPO, DQN), Stable Baselines3, Gymnasium, Pandas, NumPy
+### [Learning Center Reference](https://github.com/nick-bellows/learning-center-reference)
 
-**Cloud & Infrastructure**
-Amazon Web Services (AWS), Microsoft Azure
+A fictional soccer-federation learning and eligibility platform. Its working
+vertical slice verifies identities, resolves database roles, persists course
+enrollment and ordered lesson progress, projects a learner dashboard, and derives
+an administrator compliance view from expiring credentials and holds. The stack is
+Go, Next.js/TypeScript, PostgreSQL, OpenAPI, Docker, and GitHub Actions.
 
-**Cybersecurity**
-Penetration Testing, Vulnerability Assessment, Network Security, Nmap, Burp Suite
+### [Fan Unification Platform](https://github.com/nick-bellows/fan-unification-platform)
 
----
+A Prefect-orchestrated identity-resolution and dimensional-warehouse pipeline
+over four synthetic source systems, including a Salesforce-shaped API. It
+demonstrates incremental and idempotent ingestion, quarantine, explainable
+matching, SCD2, SQL quality gates, Redshift-oriented design, scheduled CI, and
+BI-ready marts. Linkage accuracy is measured against generated ground truth,
+including a published result where the first probabilistic approach lost to the
+deterministic baseline.
 
-## 🚀 Featured Projects
+### [Airspace Conformance Platform](https://github.com/nick-bellows/airspace-conformance-platform)
 
-### ES Futures Reinforcement Learning Trading Bot
-*July 2024 - January 2025*
-- Built end-to-end algorithmic trading system using PPO/DQN (370K parameters)
-- Processed 622K+ market data points with 47 engineered features across 2,830-dimensional observation space
-- Integrated with NinjaTrader 8 by reverse-engineering undocumented TCP socket protocol
-- **Tech:** PyTorch, Stable Baselines3, Gymnasium, Pandas, NumPy, CUDA
+Four event-driven Python services use Kafka, PostgreSQL, Redis, OpenAPI,
+WebSockets, observability, Docker, and Kubernetes to turn synthetic surveillance
+reports into tracks and advisory alerts. The repository includes contract,
+integration, end-to-end, performance, and failure-mode evidence.
 
-### NitroGen Game AI Agent
-*January 2025 - Present*
-- Training AI agent to play action games using NVIDIA's NitroGen foundation model
-- Collected and processed 56,000+ frames of gameplay data; achieved training loss of 0.0010
-- Created dataset indexing system for NVIDIA's 160GB gaming dataset (1,238 games, 57,948 hours)
-- **Tech:** PyTorch, Behavior Cloning, Frame Stacking
+### [Compliance Intelligence Platform](https://github.com/nick-bellows/compliance-intelligence-platform)
 
-### TryHackMe Penetration Testing Labs
-*Ongoing*
-- Completing CTF challenges covering enumeration, web exploitation, and Linux privilege escalation
-- **Tech:** Nmap, GoBuster, Burp Suite, Metasploit, password cracking
+An auditable FastAPI system for public sanctions-list ingestion, explainable
+entity matching, information extraction, retrieval, evaluation, and
+human-review exports. It fails closed when verified source data is unavailable.
 
----
+## Technologies demonstrated in the repositories
 
-## 📜 Certifications
+| Area | Evidence |
+| --- | --- |
+| Application engineering | Go, TypeScript, Next.js, Python, FastAPI, REST, OpenAPI |
+| Data engineering | SQL, PostgreSQL, Prefect, dimensional modeling, ETL, identity resolution |
+| Cloud and delivery | AWS-oriented Terraform, Docker, Kubernetes, GitHub Actions, GitHub Pages |
+| Quality and operations | Unit/integration/e2e tests, data-quality gates, structured evidence, metrics, tracing, runbooks |
 
-| Certification | Issuer |
-|--------------|--------|
-| Practical Junior Penetration Tester (PJPT) | TCM Security |
-| AWS Certified Machine Learning - Specialty | Amazon Web Services |
-| CompTIA PenTest+ | CompTIA |
-| CompTIA Security+ | CompTIA |
-| CompTIA A+ | CompTIA |
-| CompTIA Data+ | CompTIA |
-| CompTIA Project+ | CompTIA |
-| AWS Certified Cloud Practitioner | Amazon Web Services |
-| Microsoft Certified: Azure Fundamentals | Microsoft |
-| FAA Part 107 Remote Pilot | FAA |
+AWS architecture in these projects is validated locally or in CI and is not
+presented as a paid production deployment. Portfolio soccer/member records are
+synthetic, and the projects are independent reference implementations—not
+systems of U.S. Soccer or any member organization.
 
----
+## Education and certifications
 
-## 🎓 Education
-
-- **MS Software Engineering - AI Specialization** 
-- **BS Software Engineering** 
-- **MS Sport Management** 
-- **BS Parks, Recreation & Tourism Management** 
+- MS Software Engineering, AI specialization; BS Software Engineering
+- MS Sport Management; BS Parks, Recreation & Tourism Management
+- AWS Certified Machine Learning — Specialty and AWS Certified Cloud Practitioner
+- CompTIA Data+, Security+, PenTest+, and Project+
+- Microsoft Certified: Azure Fundamentals; Practical Junior Penetration Tester
