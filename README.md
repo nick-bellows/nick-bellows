@@ -33,14 +33,26 @@ An auditable FastAPI reference system for public sanctions-list ingestion, expla
 
 Four event-driven Python services use Kafka, PostgreSQL, Redis, OpenAPI, WebSockets, observability, Docker, and Kubernetes to turn synthetic surveillance reports into tracks and advisory alerts. The repository includes contract, integration, end-to-end, performance, and failure-mode evidence, including a model improvement that did not replicate under shifted scenarios.
 
+## Supporting engineering evidence
+
+| Project | Status and engineering signal | Implemented stack |
+| --- | --- | --- |
+| [Detection Engineering Lab](https://github.com/nick-bellows/detection-engineering-lab) | Fixture-validated Sigma detections, target compilation, evidence manifests, and explicit telemetry-validation limits | Python, Sigma, Elasticsearch, CrowdStrike LogScale, Docker, pytest, GitHub Actions |
+| [ES Futures RL Trading Bot](https://github.com/nick-bellows/ES-Futures-RL-TradingBot) | Archived learning project retained for its Python/C# integration boundary and failure analysis—not as a trading-performance claim | Python, PyTorch, Stable-Baselines3, Gymnasium, Pandas, NumPy, NinjaScript/C# |
+| [NitroGen Gaming Agents](https://github.com/nick-bellows/nitrogen-gaming-agents) | NVIDIA NitroGen fork with separately identified custom data, configuration, DAgger, and multi-frame tooling | Python, PyTorch, Hugging Face tooling, OpenCV, Windows game integration |
+| [Cybersecurity Writeups](https://github.com/nick-bellows/cyber-security-writeups) | Authorized-lab reports retained as supporting evidence; an automated publication audit keeps them de-emphasized pending source redaction | Python, pypdf, PDF content/metadata auditing, GitHub Actions |
+
 ## Technologies demonstrated in the repositories
 
 | Area | Evidence |
 | --- | --- |
-| Application engineering | Go, TypeScript, Next.js, Python, FastAPI, REST, OpenAPI |
-| Data engineering | Python, SQL, PostgreSQL, Prefect, dimensional modeling, ETL, identity resolution |
-| Cloud and delivery | AWS-oriented Terraform and deployment designs, Docker, Kubernetes, GitHub Actions, GitHub Pages |
-| Quality and operations | Unit/integration/end-to-end tests, data-quality gates, structured logs, metrics, traces, runbooks, and evidence-backed failure analysis |
+| Application engineering | Go, chi, pgx, TypeScript, Next.js, Python, FastAPI, REST, OpenAPI, OIDC, RBAC |
+| Data engineering | Python, SQL, PostgreSQL, Prefect, Pandera, Splink, dimensional modeling, SCD2, ETL, identity resolution |
+| Streaming and operations | Kafka, Redis, WebSockets, Prometheus-compatible metrics, OpenTelemetry traces, structured logging |
+| ML and experimentation | PyTorch, Stable-Baselines3, Gymnasium, spaCy, sentence transformers, BM25, reproducible evaluation |
+| Security engineering | Sigma, Elasticsearch, CrowdStrike LogScale, threat modeling, secret scanning, dependency auditing |
+| Cloud and delivery | AWS-oriented Terraform and Redshift designs, Docker, Kubernetes manifests, GitHub Actions, GitHub Pages |
+| Quality | Unit, integration, contract, end-to-end, accessibility, performance, data-quality, and evidence-drift tests |
 
 AWS and Kubernetes work is presented at the boundary actually demonstrated: local or CI validation and deployment design, not a paid production deployment. Portfolio soccer/member records are synthetic, and none of these projects is affiliated with or endorsed by U.S. Soccer or any member organization.
 

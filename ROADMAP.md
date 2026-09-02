@@ -15,13 +15,15 @@ The profile must never imply that Nick currently holds a software-engineer or da
 
 ## Current milestone - first-minute recruiter route
 
+Repository-side preparation is complete: the README routes software and data reviewers first, maps the implemented technology stacks to named projects, and `GITHUB_METADATA.md` contains reviewed account metadata. Applying the bio, pins, descriptions, topics, or homepage settings remains an explicit account-level action.
+
 ### Work
 
 1. Keep the headline and summary aligned to the current resume title and dates.
 2. Put the software and data reviewer paths before secondary projects or technology lists.
 3. Link live/static demos only when logged-out checks confirm they work and the corresponding repository documents the claim boundary.
 4. Keep certifications and education exact; do not add credentials from memory.
-5. Manually pin, in order: Learning Center, Fan Unification, Compliance Intelligence, Airspace Conformance, Detection Engineering Lab, ES Futures RL Trading Bot.
+5. Apply the prepared settings in `GITHUB_METADATA.md`, including the six manual pins, only with account-level authorization.
 6. Recheck the profile in GitHub's logged-out desktop and mobile views after every material edit.
 
 ### Acceptance criteria
