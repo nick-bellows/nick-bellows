@@ -2,7 +2,7 @@
 
 **Senior marketing manager in the sports industry transitioning into software and data engineering.**
 
-Across more than ten years in the U.S. soccer ecosystem, my work has included managing websites and web platforms serving 1M+ annual viewers, writing website code, maintaining site architecture and performance, building analytics and executive reports, and translating business requirements into technical tasks.
+Across more than ten years in the youth soccer ecosystem, my work has included managing websites and web platforms serving 1M+ annual viewers, writing website code, maintaining site architecture and performance, building analytics and executive reports, and translating business requirements into technical tasks.
 
 I pair that domain experience with an MS and BS in Software Engineering and hands-on portfolio work in Go, TypeScript, Python, SQL, PostgreSQL, APIs, data pipelines, Docker, testing, CI/CD, and AWS-oriented architecture. These repositories demonstrate the engineering work behind my career transition; they are independent portfolio/reference implementations, not systems built for my employer.
 
