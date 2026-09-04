@@ -23,8 +23,11 @@ pin is recommended: `cyber-security-writeups` is blocked pending source-document
 review, `nitrogen-gaming-agents` needs a clearer original-contribution boundary, and
 `federation-member-services-lab` needs its upstream baseline before public visibility.
 
-Live pins as of 2026-09-04 include `cyber-security-writeups` in slot six. Unpin it —
-its Pages returns 404 and its roadmap marks it blocked.
+Live pins as of 2026-09-04 include `cyber-security-writeups` in slot six. Whether to
+keep it is the owner's call, not a defect: the pin opens the repository page, which
+works, and that README documents its own scope, audit, and non-promotion decision.
+The only argument for removing it is that the five PDFs are still unredacted and
+contain challenge answers by the repository's own audit.
 
 ## Repository settings
 
