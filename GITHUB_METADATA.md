@@ -10,14 +10,21 @@ Suggested bio:
 
 > Senior Marketing Manager in soccer | Transitioning to Software & Data Engineering | Go, TypeScript, Python, SQL, PostgreSQL, AWS
 
-Recommended pin order:
+Recommended pin order (five, not six):
 
 1. `learning-center-reference`
 2. `fan-unification-platform`
 3. `compliance-intelligence-platform`
 4. `airspace-conformance-platform`
 5. `detection-engineering-lab`
-6. `ES-Futures-RL-TradingBot`
+
+`ES-Futures-RL-TradingBot` is not featured by owner decision (2026-09-04). No sixth
+pin is recommended: `cyber-security-writeups` is blocked pending source-document
+review, `nitrogen-gaming-agents` needs a clearer original-contribution boundary, and
+`federation-member-services-lab` needs its upstream baseline before public visibility.
+
+Live pins as of 2026-09-04 include `cyber-security-writeups` in slot six. Unpin it —
+its Pages returns 404 and its roadmap marks it blocked.
 
 ## Repository settings
 
@@ -29,7 +36,7 @@ Recommended pin order:
 | `airspace-conformance-platform` | Event-driven airspace conformance monitoring with Kafka, PostgreSQL, Redis, observability, containers, and explicit operational limits. | <https://nick-bellows.github.io/airspace-conformance-platform/> | `python`, `kafka`, `postgresql`, `redis`, `microservices`, `event-driven`, `observability`, `docker`, `kubernetes` |
 | `detection-engineering-lab` | Fixture-validated Sigma detections compiled for Elastic and CrowdStrike LogScale with evidence manifests, CI, and documented validation boundaries. | After Pages verification: <https://nick-bellows.github.io/detection-engineering-lab/> | `detection-engineering`, `sigma`, `elasticsearch`, `crowdstrike`, `security-analytics`, `python`, `docker` |
 | `cyber-security-writeups` | Authorized TryHackMe lab reports with a reproducible publication-safety audit and explicit non-client boundaries. | Leave blank; do not enable a gallery until sanitized editions pass review. | `cybersecurity`, `tryhackme`, `security-reporting`, `pdf-audit`, `python` |
-| `ES-Futures-RL-TradingBot` | Archived reinforcement-learning project documenting Python/C# integration, data pipelines, testing, execution-state failure, and engineering lessons. | After Pages verification: <https://nick-bellows.github.io/ES-Futures-RL-TradingBot/> | `python`, `reinforcement-learning`, `pytorch`, `gymnasium`, `csharp`, `ninjatrader`, `postmortem` |
+| `ES-Futures-RL-TradingBot` | Archived reinforcement-learning project documenting Python/C# integration, data pipelines, testing, execution-state failure, and engineering lessons. | Leave blank. Not featured (owner decision, 2026-09-04); do not enable Pages for it. | `python`, `reinforcement-learning`, `pytorch`, `gymnasium`, `csharp`, `ninjatrader`, `postmortem` |
 | `nitrogen-gaming-agents` | Fork of NVIDIA NitroGen with clearly separated custom game configurations, DAgger/multi-frame tooling, and reproducible data utilities. | After Pages verification: <https://nick-bellows.github.io/nitrogen-gaming-agents/> | `python`, `pytorch`, `gaming-agents`, `dagger`, `computer-vision`, `reinforcement-learning` |
 
 ## Manual verification checklist
