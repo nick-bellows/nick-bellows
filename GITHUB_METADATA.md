@@ -10,24 +10,22 @@ Suggested bio:
 
 > Senior Marketing Manager in soccer | Transitioning to Software & Data Engineering | Go, TypeScript, Python, SQL, PostgreSQL, AWS
 
-Recommended pin order (five, not six):
+Recommended pin order (six):
 
 1. `learning-center-reference`
 2. `fan-unification-platform`
 3. `compliance-intelligence-platform`
 4. `airspace-conformance-platform`
 5. `detection-engineering-lab`
+6. `cyber-security-writeups`
 
-`ES-Futures-RL-TradingBot` is not featured by owner decision (2026-09-04). No sixth
-pin is recommended: `cyber-security-writeups` is blocked pending source-document
-review, `nitrogen-gaming-agents` needs a clearer original-contribution boundary, and
-`federation-member-services-lab` needs its upstream baseline before public visibility.
+Slot six is a deliberate audience choice (2026-09-04): security recruiters review
+this profile and that repository is its only security-reporting evidence. The live
+pins already match this order, so no account change is needed.
 
-Live pins as of 2026-09-04 include `cyber-security-writeups` in slot six. Whether to
-keep it is the owner's call, not a defect: the pin opens the repository page, which
-works, and that README documents its own scope, audit, and non-promotion decision.
-The only argument for removing it is that the five PDFs are still unredacted and
-contain challenge answers by the repository's own audit.
+`ES-Futures-RL-TradingBot` is not featured by owner decision. `nitrogen-gaming-agents`
+and `federation-member-services-lab` stay unpinned until their contribution boundary
+and upstream baseline respectively are stronger.
 
 ## Repository settings
 
