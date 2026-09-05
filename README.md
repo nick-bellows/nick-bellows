@@ -58,8 +58,11 @@ AWS and Kubernetes work is presented at the boundary actually demonstrated: loca
 
 ## Education and certifications
 
-- MS Software Engineering, AI specialization; BS Software Engineering
-- MS Sport Management; BS Parks, Recreation & Tourism Management
+- MS Software Engineering, AI specialization
+- BS Software Engineering
+- AS Web Development 
+- MS Sport Management
+- BS Parks, Recreation & Tourism Management
 - AWS Certified Machine Learning - Specialty and AWS Certified Cloud Practitioner
 - CompTIA Data+, Security+, PenTest+, A+, and Project+
 - Microsoft Certified: Azure Fundamentals
