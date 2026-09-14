@@ -40,7 +40,7 @@ Four event-driven Python services use Kafka, PostgreSQL, Redis, OpenAPI, WebSock
 | [Detection Engineering Lab](https://github.com/nick-bellows/detection-engineering-lab) | Fixture-validated Sigma detections, target compilation, evidence manifests, and explicit telemetry-validation limits | Python, Sigma, Elasticsearch, CrowdStrike LogScale, Docker, pytest, GitHub Actions |
 | [ES Futures RL Trading Bot](https://github.com/nick-bellows/ES-Futures-RL-TradingBot) | Archived learning project retained for its Python/C# integration boundary and failure analysis—not as a trading-performance claim | Python, PyTorch, Stable-Baselines3, Gymnasium, Pandas, NumPy, NinjaScript/C# |
 | [NitroGen Gaming Agents](https://github.com/nick-bellows/nitrogen-gaming-agents) | NVIDIA NitroGen fork with separately identified custom data, configuration, DAgger, and multi-frame tooling | Python, PyTorch, Hugging Face tooling, OpenCV, Windows game integration |
-| [Cybersecurity Writeups](https://github.com/nick-bellows/cyber-security-writeups) | Authorized-lab reports retained as supporting evidence; an automated publication audit keeps them de-emphasized pending source redaction | Python, pypdf, PDF content/metadata auditing, GitHub Actions |
+| [Cybersecurity Pentest Reports](https://github.com/nick-bellows/pentest-reports-cybersecurity) | Authorized-lab reports retained as supporting evidence; an automated publication audit keeps them de-emphasized pending source redaction | Python, pypdf, PDF content/metadata auditing, GitHub Actions |
 
 ## Technologies demonstrated in the repositories
 
