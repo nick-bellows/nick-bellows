@@ -1,10 +1,10 @@
 # Nick Bellows
 
-**Senior marketing manager in the sports industry transitioning into software and data engineering.**
+**Software engineer (MS, AI specialization), building full time after ten years running web platforms and analytics for a national youth soccer organization.**
 
 Across more than ten years in the youth soccer ecosystem, my work has included managing websites and web platforms serving 1M+ annual viewers, writing website code, maintaining site architecture and performance, building analytics and executive reports, and translating business requirements into technical tasks.
 
-I pair that domain experience with an MS and BS in Software Engineering and hands-on portfolio work in Go, TypeScript, Python, SQL, PostgreSQL, APIs, data pipelines, Docker, testing, CI/CD, and AWS-oriented architecture. These repositories demonstrate the engineering work behind my career transition; they are independent portfolio/reference implementations, not systems built for my employer.
+I pair that domain experience with an MS and BS in Software Engineering and hands-on portfolio work in Go, TypeScript, Python, SQL, PostgreSQL, APIs, data pipelines, Docker, testing, CI/CD, and AWS-oriented architecture. These repositories demonstrate the engineering work behind my career transition; they are independent portfolio/reference implementations, not systems built for any employer.
 
 ## Start here
 
@@ -40,7 +40,7 @@ Four event-driven Python services use Kafka, PostgreSQL, Redis, OpenAPI, WebSock
 | [Detection Engineering Lab](https://github.com/nick-bellows/detection-engineering-lab) | Fixture-validated Sigma detections, target compilation, evidence manifests, and explicit telemetry-validation limits | Python, Sigma, Elasticsearch, CrowdStrike LogScale, Docker, pytest, GitHub Actions |
 | [ES Futures RL Trading Bot](https://github.com/nick-bellows/ES-Futures-RL-TradingBot) | Archived learning project retained for its Python/C# integration boundary and failure analysis—not as a trading-performance claim | Python, PyTorch, Stable-Baselines3, Gymnasium, Pandas, NumPy, NinjaScript/C# |
 | [NitroGen Gaming Agents](https://github.com/nick-bellows/nitrogen-gaming-agents) | NVIDIA NitroGen fork with separately identified custom data, configuration, DAgger, and multi-frame tooling | Python, PyTorch, Hugging Face tooling, OpenCV, Windows game integration |
-| [Cybersecurity Pentest Reports](https://github.com/nick-bellows/pentest-reports-cybersecurity) | Authorized-lab reports retained as supporting evidence; an automated publication audit keeps them de-emphasized pending source redaction | Python, pypdf, PDF content/metadata auditing, GitHub Actions |
+| [Penetration Test Reports](https://github.com/nick-bellows/pentest-reports-cybersecurity) | Five authorized TryHackMe lab reports in TCM/PTES structure with per-finding MITRE ATT&CK and NIST 800-53 references; room-answer flags redacted at the text layer; a CI audit pins every PDF's hash and indicator counts | Python, pypdf, PyMuPDF redaction, GitHub Actions |
 
 ## Technologies demonstrated in the repositories
 
