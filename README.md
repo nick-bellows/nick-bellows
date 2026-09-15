@@ -10,7 +10,7 @@ I pair that domain experience with an MS and BS in Software Engineering and hand
 
 | Reviewer path | First project | What it demonstrates |
 | --- | --- | --- |
-| Software engineering | [Learning Center Reference](https://github.com/nick-bellows/learning-center-reference) | Working Go/Next.js/PostgreSQL learner and administrator workflow with OIDC verification, RBAC, persisted progress, derived eligibility, tests, and accessibility automation |
+| Software engineering | [Learning Center Reference](https://github.com/nick-bellows/learning-center-reference) · [static tour](https://nick-bellows.github.io/learning-center-reference/) | Working Go/Next.js/PostgreSQL learner and administrator workflow with OIDC verification, RBAC, persisted progress, derived eligibility, tests, and accessibility automation |
 | Data engineering | [Fan Unification Platform](https://github.com/nick-bellows/fan-unification-platform) · [live dashboards](https://nick-bellows.github.io/fan-unification-platform/) | Prefect-orchestrated ingestion, explainable identity resolution, SCD2, dimensional modeling, SQL quality gates, measured linkage, and BI-ready marts |
 
 My current technical focus is deliberately narrow: multi-role learning and eligibility workflows, and trustworthy identity/data integration across disconnected soccer systems.
